@@ -15,12 +15,12 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
-    "gatsby": "^4.9.3",
-    "gatsby-plugin-image": "^2.9.1",
-    "gatsby-plugin-sharp": "^4.9.1",
-    "gatsby-source-filesystem": "^4.9.1",
-    "gatsby-transformer-sharp": "^4.9.0",
-    "react": "18.0.0-rc.1",
-    "react-dom": "18.0.0-rc.1"
+    "gatsby": "next",
+    "gatsby-plugin-image": "next",
+    "gatsby-plugin-sharp": "next",
+    "gatsby-source-filesystem": "next",
+    "gatsby-transformer-sharp": "next",
+    "react": "18.0.0-rc.2",
+    "react-dom": "18.0.0-rc.2"
   }
 }
